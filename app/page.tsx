@@ -225,7 +225,3 @@ export default function Home() {
     </main>
   );
 }
-lculateProfit();
-</script>
-</body>
-</html>
